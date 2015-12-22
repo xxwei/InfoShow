@@ -4,5 +4,5 @@ node_js:
   - "5.1"
 
 before_script:
-  npm install -g koa
-  npm install -g cluster
+  - npm install -g koa
+  - npm install -g cluster

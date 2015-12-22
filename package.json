@@ -1,0 +1,22 @@
+{
+  "name": "infoshow",
+  "version": "1.0.0",
+  "description": "info message show",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxwei/InfoShow.git"
+  },
+  "keywords": [
+    "InfoShow"
+  ],
+  "author": "xxwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxwei/InfoShow/issues"
+  },
+  "homepage": "https://github.com/xxwei/InfoShow#readme"
+}
